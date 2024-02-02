@@ -2,7 +2,7 @@
 
 # client/app.py: 3
 # client/config.py: 2
-pip install "git+https://github.com/Shraddha-Hosatti/flask-oidc-cognito/tree/master"
+pip install "git+https://github.com/Shraddha-Hosatti/flask-oidc-cognito.git"
 
 # client/app.py: 2
 # client/config.py: 1,5
